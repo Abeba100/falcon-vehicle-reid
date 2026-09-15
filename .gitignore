@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+data/
+work/
+outputs/
+!outputs/.gitkeep
+*.zip
+*.sqlite3
+dataset_report.json
+metrics.json
+.venv/
+.idea/
+.vscode/
